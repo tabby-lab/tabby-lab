@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- #### 💻 I’m currently working on a social network for web developers!
+ #### 💻 I’m currently working on a website for my client who is a doctor!
  #### 🔥 I’m currently learning more about MERN and MEAN apps.
  #### 💬 Ask me about my experience as a web developer(:
  #### 📫 How to reach me: tabby.garcia1@gmail.com 
