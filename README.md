@@ -1,7 +1,7 @@
 ## Hi there 👋
 
- #### 💻 I’m currently working on algorithms and data structures!
- #### 🔥 I’m currently learning more about React.
+ #### 💻 I’m currently working on a E-commerce website!
+ #### 🔥 I’m currently learning more about algorithms and data structures.
  #### 💬 Ask me about my experience as a web developer(:
  #### 📫 How to reach me: tabby.garcia1@gmail.com 
 #### 🥃 Fun fact: Besides coding, I love to bartend and talk about bourbon.
