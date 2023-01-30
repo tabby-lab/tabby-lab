@@ -5,7 +5,7 @@
  #### 🔥 I’m currently learning more about Next JS and Trailwind CSS
  #### 💬 Ask me about my experience as a web developer(:
  #### 📫 How to reach me: tabby.garcia1@gmail.com 
-#### 🥃 Fun fact: Besides coding, I love traveling, hiking, yoga, and my cats
+#### 🐱 Fun fact: Besides coding, I love traveling, hiking, yoga, and my cats
 
 <!--
 **tabby-lab/tabby-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
