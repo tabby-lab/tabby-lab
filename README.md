@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- #### 💜 I currently work as a Full Stack Developer for a company called ViB
+ #### 💜 I'm a Full Stack Developer looking for a strong mission based company to work for
  #### 💻 Right now in my spare time, I’m working on building a bot and learning dialogflow
  #### 🔥 I’m currently learning more about Java
  #### 💬 Ask me about my experience as a web developer(:
